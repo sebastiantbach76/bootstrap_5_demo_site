@@ -2,10 +2,6 @@
     background-image: linear-gradient(to bottom right, rgba(13, 110, 253, 0), rgba(13, 110, 253, 1));
 }
 
-.footer {
-    background-image: linear-gradient(to bottom right, rgba(13, 110, 253, 0), rgba(13, 110, 253, 1));
-}
-
 .frameworks {
   alignment-baseline: baseline;
 }
@@ -19,9 +15,21 @@
 
 .wihta-line {
   display: inline-block;
-  background: #ec7e14;
+  background: #ff6600;
   height: 4px;
   width: 400px;
+}
+
+.ats-line {
+    display: inline-block;
+    background: #00ff00;
+    height: 4px;
+    width: 400px;
+}
+
+.ats-txt {
+    text-align: justify;
+    text-justify: newspaper;
 }
 
 .widotsul ul {

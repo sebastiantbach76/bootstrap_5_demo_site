@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 60.177948 59.912853"
+   height="59.912853mm"
+   width="60.177948mm">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-76.349129,-104.00639)"
+     id="layer1">
+    <ellipse
+       ry="29.956427"
+       rx="30.088974"
+       cy="133.96281"
+       cx="106.4381"
+       id="path10"
+       style="fill:#000000;stroke-width:0.26458332" />
+  </g>
+  <g
+     transform="translate(-76.349129,-104.00639)"
+     id="layer2">
+    <text
+       transform="scale(1.1030455,0.90658091)"
+       id="text29"
+       y="168.74927"
+       x="79.446869"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.65520668px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.49138016"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.49138016"
+         id="tspan27"
+         y="168.74927"
+         x="79.446869"><tspan
+           id="tspan25"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.68975067px;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono';fill:#ffffff;stroke-width:0.49138016"
+           y="168.74927"
+           x="79.446869">C</tspan></tspan></text>
+  </g>
+</svg>
