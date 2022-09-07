@@ -1,0 +1,173 @@
+.heading1 {
+    background-image: linear-gradient(to bottom right, rgba(13, 110, 253, 0), rgba(13, 110, 253, 1));
+}
+
+.footer {
+    background-image: linear-gradient(to bottom right, rgba(13, 110, 253, 0), rgba(13, 110, 253, 1));
+}
+
+.frameworks {
+  alignment-baseline: baseline;
+}
+
+.widots-line {
+  display: inline-block;
+  background: #ffc107;
+  height: 4px;
+  width: 400px;
+}
+
+.wihta-line {
+  display: inline-block;
+  background: #ec7e14;
+  height: 4px;
+  width: 400px;
+}
+
+.widotsul ul {
+    list-style: none;
+}
+
+.widotssulcpp li::before {
+    content: "\AB";
+}
+
+.widotsulcsharp li::before {
+    content: "#";
+}
+
+.widotsulcloj li::before {
+    content: "\249E";
+}
+
+.widotsuldart li::before {
+    content: "\1F3AF";
+}
+
+.widotsulelixir li::before {
+    content: "\2697";
+}
+
+.widotsulelm li::before {
+    content: "\1F343";
+}
+
+.widotsulgo li::before {
+    content: "\1F7E2";
+}
+
+.widotsuljava li::before {
+    content: "\2615";
+}
+
+.widotsulkotlin li::before {
+    content: "\2192";
+}
+
+.widotsulperl li::before {
+    content: "\1F42A"
+}
+
+.widotsulpy li::before {
+    content: "\1F40D";
+    -webkit-filter: invert(70%) sepia(100%) saturate(1300%) hue-rotate(353deg) brightness(105%) contrast(103%);
+    filter: invert(70%) sepia(100%) saturate(1300%) hue-rotate(353deg) brightness(105%) contrast(103%);
+}
+
+.widotsulruby li::before {
+    content: "\1F48E";
+    -webkit-filter: invert(10%) sepia(99%) saturate(4812%) hue-rotate(341deg) brightness(115%) contrast(130%);
+    filter: invert(10%) sepia(99%) saturate(4812%) hue-rotate(341deg) brightness(115%) contrast(130%);
+}
+
+.widotsulrust li::before {
+    content: "\1F980";
+}
+
+.widotsulscala li::before {
+    content: "\21D2";
+}
+
+.widotsulwa li::before {
+    content: "\1F578";
+}
+
+.wihtaul ul {
+    list-style: none;
+    text-indent: -1.65em;
+    padding-left: 1.65em;
+}
+
+.wihtaul ul li::before {
+  content: "\1F341";
+}
+
+.wihtaul div {
+    text-indent: 0;
+}
+
+.svgsize {
+  height: 26px;
+  width: 26px;
+  alignment: top;
+}
+
+.svgsize2 {
+  height: 30px;
+  alignment: top;
+}
+
+.filter-yellow {
+  -webkit-filter: invert(70%) sepia(100%) saturate(1300%) hue-rotate(353deg) brightness(105%) contrast(103%);
+          filter: invert(70%) sepia(100%) saturate(1300%) hue-rotate(353deg) brightness(105%) contrast(103%);
+}
+
+.filter-blue {
+  -webkit-filter: invert(25%) sepia(39%) saturate(5740%) hue-rotate(213deg) brightness(104%) contrast(98%);
+          filter: invert(25%) sepia(39%) saturate(5740%) hue-rotate(213deg) brightness(104%) contrast(98%);
+}
+
+.filter-brown {
+  -webkit-filter: invert(24%) sepia(81%) saturate(1178%) hue-rotate(359deg) brightness(93%) contrast(86%);
+          filter: invert(24%) sepia(81%) saturate(1178%) hue-rotate(359deg) brightness(93%) contrast(86%);
+}
+
+.filter-red {
+  -webkit-filter: invert(10%) sepia(99%) saturate(4812%) hue-rotate(341deg) brightness(115%) contrast(130%);
+          filter: invert(10%) sepia(99%) saturate(4812%) hue-rotate(341deg) brightness(115%) contrast(130%);
+}
+
+.filter-pink {
+  -webkit-filter: invert(82%) sepia(24%) saturate(3293%) hue-rotate(294deg) brightness(100%) contrast(96%);
+          filter: invert(82%) sepia(24%) saturate(3293%) hue-rotate(294deg) brightness(100%) contrast(96%);
+}
+
+.filter-purple {
+  -webkit-filter: invert(12%) sepia(93%) saturate(5894%) hue-rotate(287deg) brightness(97%) contrast(97%);
+          filter: invert(12%) sepia(93%) saturate(5894%) hue-rotate(287deg) brightness(97%) contrast(97%);
+}
+
+.filter-cyan {
+  -webkit-filter: invert(75%) sepia(65%) saturate(3783%) hue-rotate(145deg) brightness(104%) contrast(104%);
+          filter: invert(75%) sepia(65%) saturate(3783%) hue-rotate(145deg) brightness(104%) contrast(104%);
+}
+
+.filter-green {
+  -webkit-filter: invert(63%) sepia(96%) saturate(626%) hue-rotate(74deg) brightness(97%) contrast(132%);
+          filter: invert(63%) sepia(96%) saturate(626%) hue-rotate(74deg) brightness(97%) contrast(132%);
+}
+
+.filter-darkgreen {
+  -webkit-filter: invert(40%) sepia(9%) saturate(2896%) hue-rotate(73deg) brightness(111%) contrast(91%);
+          filter: invert(40%) sepia(9%) saturate(2896%) hue-rotate(73deg) brightness(111%) contrast(91%);
+}
+
+.filter-darkred {
+  -webkit-filter: invert(23%) sepia(32%) saturate(7090%) hue-rotate(350deg) brightness(74%) contrast(92%);
+          filter: invert(23%) sepia(32%) saturate(7090%) hue-rotate(350deg) brightness(74%) contrast(92%);
+}
+
+.filter-orange {
+  -webkit-filter: invert(39%) sepia(66%) saturate(3844%) hue-rotate(7deg) brightness(94%) contrast(94%);
+          filter: invert(39%) sepia(66%) saturate(3844%) hue-rotate(7deg) brightness(94%) contrast(94%);
+}

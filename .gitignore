@@ -1,0 +1,9 @@
+## Bootstrap 5 Demo Site by Sebastian T. Bach ##
+
+# Local directories
+**/.idea/*
+**/node_modules/*
+
+# Local files
+package.json
+package-lock.json
