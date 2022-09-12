@@ -81,4 +81,3 @@ classPropApplier(trashExample, trashExampleClassProps);
 classPropApplier(footer, footerClassProps);
 elemAttribApplier(inProgress, inProgressAttribs);
 elemAttribApplier(spinner, spinnerAttribs);
-
